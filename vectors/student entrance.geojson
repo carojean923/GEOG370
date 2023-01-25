@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "student entrance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Gate C" }, "geometry": { "type": "Point", "coordinates": [ -8799176.501573877409101, 4286749.028025387786329 ] } }
+]
+}

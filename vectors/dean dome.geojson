@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "dean dome",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "Dean Dome" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -8799192.015737684443593, 4286832.03609256260097 ], [ -8799161.584140907973051, 4286860.565714539960027 ], [ -8799082.652186769992113, 4286862.46768933814019 ], [ -8799047.465652998536825, 4286830.134117763489485 ], [ -8799039.857753803953528, 4286829.183130364865065 ], [ -8799041.759728603065014, 4286762.614012417383492 ], [ -8799046.51466559804976, 4286766.417962013743818 ], [ -8799085.505148967728019, 4286731.23142824228853 ], [ -8799160.633153509348631, 4286734.084390440024436 ], [ -8799189.162775486707687, 4286756.908088021911681 ], [ -8799191.064750283956528, 4286830.134117763489485 ], [ -8799192.015737684443593, 4286832.03609256260097 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "id": null, "name": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "id": null, "name": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } }
+]
+}
