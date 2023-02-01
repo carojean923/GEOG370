@@ -1,13 +1,5 @@
 # GEOG370
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projections</title>
-</head>
-<body>
     <h1>In this project I learned how to display images in different projections</h1>
     
     <h2 style="color:rgb(216, 125, 158)">Describe in your own words how you displayed the map in different projections using QGIS</h2>
@@ -60,8 +52,6 @@
     </a>
     <h2>Data used for this project</h2>
     <a href="https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_countries.zip"> Download Natrual Earth 1:10m Cultural Vector </a>
-</body>
-</html>
 
 <h2 style="color:rgb(0, 187, 255)">Walking Path from Morrison Residence Hall to the Student Entrance at the Dean Dome</p>
 
